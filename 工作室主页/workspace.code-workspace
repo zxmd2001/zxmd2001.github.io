@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\zxmd\\markdown\\新建文件夹"
+		},
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open ds.html",
+				"file": "c:\\Users\\zxmd\\markdown\\新建文件夹\\ds.html"
+			}
+		]
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "工作室主页"
+	}
+}
